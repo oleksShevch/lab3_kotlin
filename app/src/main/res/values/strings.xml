@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Калькулятор3</string>
+    <string name="dailyAvarage">Середньодобова потужність (МВт)</string>
+    <string name="sigma">sigma (середньоквадратичне відхилення)</string>
+    <string name="price">Вартість електроенергії (грн/КВт)</string>
+    <string name="precision">Похибка прогнозу (%)</string>
+    <string name="calculate">Розрахувати</string>
+    <string name="resultPlaceholder">Тут з\'являться результати</string>
+    <string name="resultString">Електрики без штрафу (W1): %1$s МВт\nЕлектрики з штрафом (W2): %2$s МВт\nПрибуток: %3$s UAH\nШтраф: %4$s UAH</string>
+</resources>
